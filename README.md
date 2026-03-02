@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm a Computer Science student at the University of British Columbia (UBC), graduating December 2026.  <br><br>I'm focused on building scalable software and intelligent systems.
+# About Me:
+Building stuff.
 
 
 ## 🌐 Socials:
